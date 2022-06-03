@@ -1,0 +1,6 @@
+project: asar
+target: asar-standalone
+
+cmds:
+  - cmd: /repo/src/build/asar/asar-standalone /test.asm
+    filepath: /test.asm
