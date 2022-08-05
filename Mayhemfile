@@ -1,5 +1,5 @@
 project: asar
-target: asar-standalone
+target: asar
 
 cmds:
-  - cmd: /asar-standalone @@
+  - cmd: /asar @@
