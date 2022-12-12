@@ -1,0 +1,7 @@
+project: asar
+target: asar2
+
+cmds:
+  # - cmd: /asar @@
+  - cmd: /fuzz
+image: ghcr.io/rnshah9/playground:asar
