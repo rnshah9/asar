@@ -1,7 +1,5 @@
 project: asar
-target: asar2
+target: asar
 
 cmds:
-  # - cmd: /asar @@
-  - cmd: /fuzz
-image: ghcr.io/rnshah9/playground:asar
+  - cmd: /fuzz_validatedefinename
