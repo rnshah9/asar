@@ -1,5 +1,5 @@
 project: asar
-target: asar
+target: validatedefinename
 
 cmds:
   - cmd: /fuzz_validatedefinename
